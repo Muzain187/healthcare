@@ -1,0 +1,29 @@
+.navigation{
+    background-color: aqua;
+}
+.btncolor{
+    background-color: red;
+}
+.slidImg{
+    width: 100%;
+    border:5px solid black;
+    height: 380px;
+}
+.container{
+    border: 2px solid black;
+    display: flex;
+   justify-content:center;
+   /* align-items: center; */
+   flex-direction: row;
+   flex-wrap: wrap;
+   margin-top: 5%;
+   margin-left: 10%;
+   margin-right: 10%;
+}
+/* .card{
+    margin:2%;
+    /* visibility: 10%; */
+    /* animation: card;
+    animation-duration: 6s;
+
+} */
